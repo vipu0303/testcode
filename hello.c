@@ -5,5 +5,6 @@ int main()
 	printf ("update\n");
 	printf ("update 2\n");
 	printf ("update 3\n");
+	printf ("update 4 in branch1 \n");
 	return 0;
 }
